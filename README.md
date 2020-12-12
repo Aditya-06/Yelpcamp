@@ -3,14 +3,14 @@ A camping-attractions' aggregator (From Colt Steele's 'The Web Developer Bootcam
 
 ## Folder Structure
 ```
-|--middleware
-|--models
-|--public
-|--routes
-|--views
-|--app.js
-|--package.joson
-|--package-lock.json
+|--middleware                --Functions to be executed during lifecycle of an express request
+|--models                    --Contains the database entity models
+|--public                    --Contains the styling
+|--routes                    --APIs
+|--views                     --Frontend JSX pages
+|--app.js                    --Entry point of the application
+|--package.json              --Project description, properties, author, license etc      
+|--package-lock.json         --Project dependencies
 ```
 
 
