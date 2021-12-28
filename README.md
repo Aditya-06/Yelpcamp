@@ -1,5 +1,5 @@
 # Yelpcamp
-A camping-attractions' aggregator (From Colt Steele's 'The Web Developer Bootcamp')
+A camping-attractions' aggregator
 
 ## Folder Structure
 ```
